@@ -8,6 +8,6 @@
 	
 	Wait to write
 
-## Useage
+## Usage
 
 	Wait to write
